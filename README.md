@@ -5,8 +5,8 @@
 Software Engineer Student
 -----------------
 
-Sou um estudante de Engenharia de Software que está no 4º semestre. Estou focado em aprender e desenvolver projetos com Java, mas tenho interesse em outras linguagens voltadas a orientação a objetos.
-No momento estou estudando Spring Boot, mas em breve pretendo me aprofundar em outras linguagens.
+I am a Software Engineering student currently in my 5th semester. I am focused on learning and developing projects with Java, but I also have an interest in other object-oriented languages. 
+At the moment, I am studying Spring Boot, PHP and Django but soon I intend to deepen my knowledge in other languages.
 
 
 <p align="center">
