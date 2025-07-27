@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Leonardo+Silva;Software+Engineering+student+%7C+Java+developer;Passionate+about+APIs,+automation+and+clean+code;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-Software Engineer Student
+Software Engineering Student
 -----------------
 
 I'm a Software Engineering student currently in my 6th semester.
